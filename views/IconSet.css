@@ -1,0 +1,30 @@
+﻿.icon-set {
+    margin: 20px auto 0;
+    width: auto;
+    overflow: hidden;
+}
+.icon-set .icon-box {
+    float: left; 
+    margin: 0 10px 30px;
+    width: 75px;
+}
+.icon-set .icon-title {
+    text-align: center;
+    padding-top: 3px;
+}
+.icon-set .dx-icon {
+    width: 56px;
+    height: 56px;
+    margin: 0 auto;
+}
+
+.dx-theme-ios  .icon-set{
+    margin: 0 17px;
+}
+
+.dx-theme-android  .icon-set{
+    margin: 0 -13px;
+}
+.dx-theme-win8phone  .icon-set{
+    margin: 0 24px;
+}
